@@ -1,0 +1,17 @@
+F:\Git Repositories\CodingExercise\Coding Exercise\CodingExerciseTests\bin\Debug\CodingExerciseTests.dll
+F:\Git Repositories\CodingExercise\Coding Exercise\CodingExerciseTests\bin\Debug\CodingExerciseTests.pdb
+F:\Git Repositories\CodingExercise\Coding Exercise\CodingExerciseTests\bin\Debug\Coding Exercise.exe
+F:\Git Repositories\CodingExercise\Coding Exercise\CodingExerciseTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Git Repositories\CodingExercise\Coding Exercise\CodingExerciseTests\bin\Debug\Microsoft.Practices.Unity.dll
+F:\Git Repositories\CodingExercise\Coding Exercise\CodingExerciseTests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Git Repositories\CodingExercise\Coding Exercise\CodingExerciseTests\bin\Debug\Coding Exercise.pdb
+F:\Git Repositories\CodingExercise\Coding Exercise\CodingExerciseTests\bin\Debug\Microsoft.Practices.Unity.xml
+F:\Git Repositories\CodingExercise\Coding Exercise\CodingExerciseTests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\Git Repositories\CodingExercise\Coding Exercise\CodingExerciseTests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\Git Repositories\CodingExercise\Coding Exercise\CodingExerciseTests\obj\Debug\CodingExerciseTests.csprojResolveAssemblyReference.cache
+F:\Git Repositories\CodingExercise\Coding Exercise\CodingExerciseTests\obj\Debug\CodingExerciseTests.dll
+F:\Git Repositories\CodingExercise\Coding Exercise\CodingExerciseTests\obj\Debug\CodingExerciseTests.pdb
+F:\Git Repositories\CodingExercise\Coding Exercise\CodingExerciseTests\bin\Debug\Castle.Core.dll
+F:\Git Repositories\CodingExercise\Coding Exercise\CodingExerciseTests\bin\Debug\Moq.dll
+F:\Git Repositories\CodingExercise\Coding Exercise\CodingExerciseTests\bin\Debug\Castle.Core.xml
+F:\Git Repositories\CodingExercise\Coding Exercise\CodingExerciseTests\bin\Debug\Moq.xml

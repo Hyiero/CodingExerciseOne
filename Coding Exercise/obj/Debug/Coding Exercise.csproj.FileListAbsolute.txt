@@ -1,0 +1,14 @@
+F:\Git Repositories\CodingExercise\Coding Exercise\Coding Exercise\bin\Debug\Coding Exercise.exe.config
+F:\Git Repositories\CodingExercise\Coding Exercise\Coding Exercise\bin\Debug\Coding Exercise.exe
+F:\Git Repositories\CodingExercise\Coding Exercise\Coding Exercise\bin\Debug\Coding Exercise.pdb
+F:\Git Repositories\CodingExercise\Coding Exercise\Coding Exercise\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Git Repositories\CodingExercise\Coding Exercise\Coding Exercise\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+F:\Git Repositories\CodingExercise\Coding Exercise\Coding Exercise\bin\Debug\Microsoft.Practices.Unity.dll
+F:\Git Repositories\CodingExercise\Coding Exercise\Coding Exercise\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+F:\Git Repositories\CodingExercise\Coding Exercise\Coding Exercise\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\Git Repositories\CodingExercise\Coding Exercise\Coding Exercise\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\Git Repositories\CodingExercise\Coding Exercise\Coding Exercise\bin\Debug\Microsoft.Practices.Unity.xml
+F:\Git Repositories\CodingExercise\Coding Exercise\Coding Exercise\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+F:\Git Repositories\CodingExercise\Coding Exercise\Coding Exercise\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+F:\Git Repositories\CodingExercise\Coding Exercise\Coding Exercise\obj\Debug\Coding Exercise.exe
+F:\Git Repositories\CodingExercise\Coding Exercise\Coding Exercise\obj\Debug\Coding Exercise.pdb
