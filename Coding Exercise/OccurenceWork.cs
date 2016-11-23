@@ -24,8 +24,8 @@ namespace Coding_Exercise
 
         public void DisplayLowestOccurenceInLine(string line)
         {
-            CharacterOccurence highestOccurence = lineAnalyzer.GetHighestOccurenceCharacter(line);
-            Console.WriteLine(string.Format("Line: {0}, \nHigh Char: {1}, Number Of Occurences: {2}", line, highestOccurence.character, highestOccurence.numOfOccurences));
+            CharacterOccurence lowestOccurence = lineAnalyzer.GetLowestOccurenceCharacter(line);
+            Console.WriteLine(string.Format("Line: {0}, \nHigh Char: {1}, Number Of Occurences: {2}", line, lowestOccurence.character, lowestOccurence.numOfOccurences));
         }
 
         public void DisplayTotalOrderedOccurencesInLine(string line)
