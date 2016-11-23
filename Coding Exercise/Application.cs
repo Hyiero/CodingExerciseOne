@@ -57,8 +57,10 @@ namespace Coding_Exercise
             string singleLineToAnalyze = string.Join("", linesForAnalysis);
             work.DisplayTotalOrderedOccurencesInLine(singleLineToAnalyze);
 
+            Console.WriteLine("--------Highest Occurence for Whole Block--------");
             work.DisplayHighestOccurenceInLine(singleLineToAnalyze);
 
+            Console.WriteLine("--------Lowest Occurence for Whole Block--------");
             work.DisplayLowestOccurenceInLine(singleLineToAnalyze);
         }
     }
