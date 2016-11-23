@@ -11,19 +11,7 @@ namespace Coding_Exercise.BusinessLayer
 
         public List<CharacterOccurence> GetAlphaOrderedCharacterOccurences(string line)
         {
-            var allLines = new List<CharacterOccurence>();
-            var distChars = line.Distinct();
-
-            foreach (var distChar in distChars)
-            {
-                allLines.Add(new CharacterOccurence()
-                {
-                    character = distChar,
-                    numOfOccurences = line.Count(currentChar => currentChar == distChar)
-                });
-            }
-
-            return allLines.OrderBy(x => x.character).ToList();
+            return GetDistinctOccurenceCharacters(line).OrderBy(x => x.character).ToList();
         }
 
         public CharacterOccurence GetHighestOccurenceCharacter(string line)
